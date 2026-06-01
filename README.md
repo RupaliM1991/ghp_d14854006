@@ -14,9 +14,9 @@ Software and Packages: The analysis was conducted using R (using R Studio).
 
 External packages used:
 
-•	`readr`
+•	`readr` it is used in my "analysis.r" code to read the ".csv" file. The code uses this but it will be required for the person to download their own csv from NTU cool to reporduce the results.
 
-•	`dplyr`
+•	`dplyr` dplyr (via tibble) provides glimpse() and any data manipulation functions you use.
 
 Analysis Method: The analysis was carried out using the following steps:
 
