@@ -5,7 +5,7 @@
 library(readr)
 library(dplyr)
 
-# Import the dataset
+# Import the dataset, here we have not uploaded the csv file on github
 # The CSV file should be placed in the same folder as this R script.
 dengue <- read_csv("dengue_assignment.csv")
 
